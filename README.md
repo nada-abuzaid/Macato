@@ -66,6 +66,8 @@ When the chef opens the appliationm he can see all chefs in the dashboard and ad
 - Material UI
 <hr>
 
+## ✧ User Flow
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/52599778/169712166-89215e79-b714-40ad-bd37-ce099144a5e0.png)
 
 
 ## ✧ Developed by
